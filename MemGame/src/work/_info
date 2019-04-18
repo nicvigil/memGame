@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Nic/Desktop/SimonSays
+vgenerateSequence
+!s110 1554704197
+!i10b 1
+!s100 8Y?<hV5j>R37nN9T3?SQT3
+IHVbH2D61CTE9N]]UYaY0j2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+dC:/Users/Nic/Desktop/SimonSays/src
+w1554704172
+8C:/Users/Nic/Desktop/SimonSays/src/generateSequence.v
+FC:/Users/Nic/Desktop/SimonSays/src/generateSequence.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1554704197.000000
+!s107 C:/Users/Nic/Desktop/SimonSays/src/generateSequence.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Nic/Desktop/SimonSays/src/generateSequence.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+ngenerate@sequence
+vreverseSeq
+!s110 1554686849
+!i10b 1
+!s100 bR=C831fC>aID::S62jX?2
+IF^6BKd[`01@W8`_LHB_;U3
+R1
+R0
+w1554686845
+8C:/Users/Nic/Desktop/SimonSays/reverseSeq.v
+FC:/Users/Nic/Desktop/SimonSays/reverseSeq.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1554686849.000000
+!s107 C:/Users/Nic/Desktop/SimonSays/reverseSeq.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Nic/Desktop/SimonSays/reverseSeq.v|
+!i113 1
+R3
+R4
+nreverse@seq
